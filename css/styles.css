@@ -176,6 +176,10 @@ p {
     text-align: center;
   }
 
+  html{
+    scroll-behavior: smooth;
+  }
+
   .title-image {
     position: static;
     transform: rotate(0);
